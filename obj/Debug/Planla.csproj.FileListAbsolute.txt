@@ -1,0 +1,36 @@
+C:\Users\tamer.SUN\Downloads\DelayDemoForms\DelayDemoForms\bin\Debug\DelayDemoForms.exe.config
+C:\Users\tamer.SUN\Downloads\DelayDemoForms\DelayDemoForms\bin\Debug\DelayDemoForms.exe.manifest
+C:\Users\tamer.SUN\Downloads\DelayDemoForms\DelayDemoForms\bin\Debug\DelayDemoForms.application
+C:\Users\tamer.SUN\Downloads\DelayDemoForms\DelayDemoForms\bin\Debug\DelayDemoForms.exe
+C:\Users\tamer.SUN\Downloads\DelayDemoForms\DelayDemoForms\bin\Debug\DelayDemoForms.pdb
+C:\Users\tamer.SUN\Downloads\DelayDemoForms\DelayDemoForms\obj\Debug\DelayDemoForms.Form1.resources
+C:\Users\tamer.SUN\Downloads\DelayDemoForms\DelayDemoForms\obj\Debug\DelayDemoForms.Form2.resources
+C:\Users\tamer.SUN\Downloads\DelayDemoForms\DelayDemoForms\obj\Debug\DelayDemoForms.Properties.Resources.resources
+C:\Users\tamer.SUN\Downloads\DelayDemoForms\DelayDemoForms\obj\Debug\Planla.csproj.GenerateResource.Cache
+C:\Users\tamer.SUN\Downloads\DelayDemoForms\DelayDemoForms\obj\Debug\DelayDemoForms.exe.manifest
+C:\Users\tamer.SUN\Downloads\DelayDemoForms\DelayDemoForms\obj\Debug\DelayDemoForms.application
+C:\Users\tamer.SUN\Downloads\DelayDemoForms\DelayDemoForms\obj\Debug\DelayDemoForms.exe
+C:\Users\tamer.SUN\Downloads\DelayDemoForms\DelayDemoForms\obj\Debug\DelayDemoForms.pdb
+C:\Users\tamer.SUN\Downloads\DelayDemoForms\DelayDemoForms\obj\Debug\Planla.csprojResolveAssemblyReference.cache
+E:\Vs çalışma\DelayDemoForms\DelayDemoForms\obj\Debug\Planla.csprojResolveAssemblyReference.cache
+E:\Vs çalışma\DelayDemoForms\DelayDemoForms\obj\Debug\DelayDemoForms.Form1.resources
+E:\Vs çalışma\DelayDemoForms\DelayDemoForms\obj\Debug\DelayDemoForms.Form2.resources
+E:\Vs çalışma\DelayDemoForms\DelayDemoForms\obj\Debug\DelayDemoForms.Properties.Resources.resources
+E:\Vs çalışma\DelayDemoForms\DelayDemoForms\obj\Debug\Planla.csproj.GenerateResource.Cache
+E:\Vs çalışma\DelayDemoForms\DelayDemoForms\obj\Debug\DelayDemoForms.exe
+E:\Vs çalışma\DelayDemoForms\DelayDemoForms\obj\Debug\DelayDemoForms.pdb
+D:\Vs çalışma\DelayDemoForms\DelayDemoForms\obj\Debug\Planla.csprojResolveAssemblyReference.cache
+D:\Vs çalışma\DelayDemoForms\DelayDemoForms\obj\Debug\DelayDemoForms.Form1.resources
+D:\Vs çalışma\DelayDemoForms\DelayDemoForms\obj\Debug\DelayDemoForms.Form2.resources
+D:\Vs çalışma\DelayDemoForms\DelayDemoForms\obj\Debug\DelayDemoForms.Properties.Resources.resources
+D:\Vs çalışma\DelayDemoForms\DelayDemoForms\obj\Debug\Planla.csproj.GenerateResource.Cache
+D:\Vs çalışma\DelayDemoForms\DelayDemoForms\obj\Debug\DelayDemoForms.exe
+D:\Vs çalışma\DelayDemoForms\DelayDemoForms\obj\Debug\DelayDemoForms.pdb
+E:\Vs çalışma\DelayDemoForms\DelayDemoForms\bin\Debug\DelayDemoForms.exe.config
+E:\Vs çalışma\DelayDemoForms\DelayDemoForms\bin\Debug\DelayDemoForms.exe.manifest
+E:\Vs çalışma\DelayDemoForms\DelayDemoForms\bin\Debug\DelayDemoForms.application
+E:\Vs çalışma\DelayDemoForms\DelayDemoForms\bin\Debug\DelayDemoForms.exe
+E:\Vs çalışma\DelayDemoForms\DelayDemoForms\bin\Debug\DelayDemoForms.pdb
+E:\Vs çalışma\DelayDemoForms\DelayDemoForms\obj\Debug\DelayDemoForms.exe.manifest
+E:\Vs çalışma\DelayDemoForms\DelayDemoForms\obj\Debug\DelayDemoForms.application
+E:\Vs çalışma\DelayDemoForms\DelayDemoForms\obj\Debug\Planla.csproj.CoreCompileInputs.cache
